@@ -5,7 +5,7 @@
 Primeira semana
 
 3- Primeiras Páginas Interativas com JavaScript 9 atividades
-Segunda semana
+Segunda Semana
 Terceira Semana
 
 4- Dominando Algoritimos Básicos com Desafios de Código JavaScript 5 atividades
